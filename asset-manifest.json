@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ip-tracker/static/css/main.4c0df262.chunk.css",
+    "main.js": "/ip-tracker/static/js/main.191daf4c.chunk.js",
+    "main.js.map": "/ip-tracker/static/js/main.191daf4c.chunk.js.map",
+    "runtime-main.js": "/ip-tracker/static/js/runtime-main.b1593b04.js",
+    "runtime-main.js.map": "/ip-tracker/static/js/runtime-main.b1593b04.js.map",
+    "static/css/2.7c35e809.chunk.css": "/ip-tracker/static/css/2.7c35e809.chunk.css",
+    "static/js/2.da7ea28b.chunk.js": "/ip-tracker/static/js/2.da7ea28b.chunk.js",
+    "static/js/2.da7ea28b.chunk.js.map": "/ip-tracker/static/js/2.da7ea28b.chunk.js.map",
+    "index.html": "/ip-tracker/index.html",
+    "precache-manifest.dd01c7b20a6338d4b56f15dc0e45d5bb.js": "/ip-tracker/precache-manifest.dd01c7b20a6338d4b56f15dc0e45d5bb.js",
+    "service-worker.js": "/ip-tracker/service-worker.js",
+    "static/css/2.7c35e809.chunk.css.map": "/ip-tracker/static/css/2.7c35e809.chunk.css.map",
+    "static/css/main.4c0df262.chunk.css.map": "/ip-tracker/static/css/main.4c0df262.chunk.css.map",
+    "static/js/2.da7ea28b.chunk.js.LICENSE.txt": "/ip-tracker/static/js/2.da7ea28b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1593b04.js",
+    "static/css/2.7c35e809.chunk.css",
+    "static/js/2.da7ea28b.chunk.js",
+    "static/css/main.4c0df262.chunk.css",
+    "static/js/main.191daf4c.chunk.js"
+  ]
+}
